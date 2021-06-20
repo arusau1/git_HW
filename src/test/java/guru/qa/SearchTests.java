@@ -23,8 +23,9 @@ public class SearchTests {
         Configuration.browser = "chrome";
     }
 
-//comment1
-//comment2
+    //comment1
+    //comment2
+    //comment3
 
     @BeforeEach
     void openGooglePage() {
