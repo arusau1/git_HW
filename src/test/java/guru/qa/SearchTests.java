@@ -24,6 +24,8 @@ public class SearchTests {
     }
 
 //comment1
+//comment2
+
     @BeforeEach
     void openGooglePage() {
         logger.info("BeforeEach Method");
