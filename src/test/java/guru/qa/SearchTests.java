@@ -26,6 +26,7 @@ public class SearchTests {
     //comment1
     //comment2
     //comment3
+    //comment4
 
     @BeforeEach
     void openGooglePage() {
