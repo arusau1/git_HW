@@ -23,6 +23,7 @@ public class SearchTests {
         Configuration.browser = "chrome";
     }
 
+//comment1
     @BeforeEach
     void openGooglePage() {
         logger.info("BeforeEach Method");
